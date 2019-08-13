@@ -1,0 +1,72 @@
+[
+  {
+    "username": "Ekinoxx",
+    "displayName": "Léo Dagan",
+    "id": 195274814569578506,
+    "lastEdit": 1565300311391,
+    "nbrRun": 7,
+    "toPayAmount": 14000,
+    "alreadyPaidAmount": 0,
+    "messageId": 609137705988653170
+  },
+  {
+    "username": "Sugawara",
+    "displayName": "Claudomir Campos",
+    "id": 203813060320690176,
+    "lastEdit": 1565290950348,
+    "nbrRun": 0,
+    "toPayAmount": 0,
+    "alreadyPaidAmount": 0,
+    "messageId": 609137707146543129
+  },
+  {
+    "username": "oscar cagoule",
+    "displayName": "Oscar Cagoule",
+    "id": 604318808236359680,
+    "lastEdit": 1565382204626,
+    "nbrRun": 3,
+    "toPayAmount": 6000,
+    "alreadyPaidAmount": 0,
+    "messageId": 609481879367974912
+  },
+  {
+    "username": "Mike Rada",
+    "displayName": "Mike Rada",
+    "id": 241894732261883906,
+    "lastEdit": 1565382853947,
+    "nbrRun": 10,
+    "toPayAmount": 20000,
+    "alreadyPaidAmount": 0,
+    "messageId": 609137707976884232
+  },
+  {
+    "username": "Neprix",
+    "displayName": "Lenny Cortot",
+    "id": 273492462259929089,
+    "lastEdit": 1565382837983,
+    "nbrRun": 28,
+    "toPayAmount": 56000,
+    "alreadyPaidAmount": 0,
+    "messageId": 609484533330345984
+  },
+  {
+    "username": "c l e m 6 0 1 4",
+    "displayName": "Marc Cortot",
+    "id": 342670230461349889,
+    "lastEdit": 1565382847882,
+    "nbrRun": 6,
+    "toPayAmount": 12000,
+    "alreadyPaidAmount": 0,
+    "messageId": 609484575663718401
+  },
+  {
+    "username": "Banko",
+    "displayName": "Harry Banko",
+    "id": 227831079741030400,
+    "lastEdit": 1565382796241,
+    "nbrRun": 7,
+    "toPayAmount": 14000,
+    "alreadyPaidAmount": 0,
+    "messageId": 609484358021021697
+  }
+]
